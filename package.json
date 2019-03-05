@@ -1,11 +1,12 @@
 {
-  "name": "bootstrap-v4-rtl-persianuser",
+  "name": "bootstrap-rtl-rezapasalar",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "example": "examples"
-  },
+  "description": "Bootstrap right to left...",
+  "keyword": [
+    "bootstrap",
+    "bootstrap4",
+    "bootstrap-rtl"
+  ],
   "scripts": {
     "build": "minify --output bootstrap-rtl.min.css bootstrap-rtl.css"
   }
