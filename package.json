@@ -7,6 +7,7 @@
     "bootstrap4",
     "bootstrap-rtl"
   ],
+  "license" : "MIT",
   "scripts": {
     "build": "minify --output bootstrap-rtl.min.css bootstrap-rtl.css"
   }
