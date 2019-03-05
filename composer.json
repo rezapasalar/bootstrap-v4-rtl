@@ -1,0 +1,13 @@
+{
+    "name": "rp/bootstrap-v4-rtl",
+    "description": "bootstrap 4 right to left",
+    "type": "project",
+    "keywords" : ["bootstrap", "bootstrap4", "bootstrap-rtl"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reza Pasalar",
+            "email": "rezapasalar@yahoo.com"
+        }
+    ]
+}
